@@ -1,5 +1,5 @@
 """
-Write a program to calculate the Number of Primitive Roots Modulo n.
+Program to calculate the Number of Primitive Roots Modulo n.
 
 Theorem: There are Ø(Ø(n)) primitive roots modulo n.
 
