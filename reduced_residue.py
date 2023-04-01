@@ -1,5 +1,5 @@
 """
-Write a program to calculate the Reduced Residue System Modulo n.
+Program to calculate the Reduced Residue System Modulo n.
 
 • A set of Ø(n) integers such that each element of the set is relatively prime to
 n, and no two different elements of the set are congruent modulo n.
