@@ -1,5 +1,5 @@
 """
-Write a program to calculate Euler's Theorem.
+Program to calculate Euler's Theorem.
 
 The problem is to find the last two digits of a^b.
 
