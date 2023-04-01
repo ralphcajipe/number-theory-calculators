@@ -1,5 +1,5 @@
 """
-Write a program to calculate the Order of an Integer Modulo n.
+Program to calculate the Order of an Integer Modulo n.
 Definition: Let n > 1 and gcd(a, n) = 1.
 The order of a modulo n (in older terminology: the exponent
 to which a belongs modulo n) is the smallest positive integer
@@ -39,7 +39,7 @@ def order(a, n):
     
     
 """
-Write a function that shows the solution like this with sentences:
+Ffunction that shows the solution like this with sentences:
 
 To find the order of 2 modulo 7, we compute the least positive residues modulo 7 of powers of 2.
 
